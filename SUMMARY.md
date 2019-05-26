@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Linebender graphics wiki](README.md)
-* [Gamma](gamma.md)
+* [Initial page](README.md)
+* [Useful Links](useful-links.md)
 
